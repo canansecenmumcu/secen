@@ -39,12 +39,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Resim dosyalarını yok say
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
+
 
 
 
