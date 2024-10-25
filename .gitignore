@@ -38,3 +38,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Resim dosyalarını yok say
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+
+app/page.jsx
